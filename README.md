@@ -1,94 +1,76 @@
-<!-- README for Rodrigo Ureña Castillo -->
-# Rodrigo Ureña Castillo
+<!-- Profile README for Rodrigo Ureña Castillo -->
 
-**Information Systems Engineering student · Systems developer (C++, Java, Python, C, PHP)**
-
----
-
-## About me
-Third-year Information Systems Engineering student focused on systems development, networking and agile practices. I enjoy building efficient, maintainable software and applying practical solutions to real problems. Currently gaining experience as a Junior Scrum Master and expanding knowledge in cloud-native workflows and software architecture. :contentReference[oaicite:1]{index=1}
-
-## Quick highlights
-- Languages: C++, Java, Python, C, PHP. :contentReference[oaicite:2]{index=2}  
-- Dev / Tools: GitHub, Linux (Ubuntu), VS Code, IntelliJ, Docker (experience). :contentReference[oaicite:3]{index=3}  
-- Networking experience from an internship at Cisco (routing/switching, servers) and technical diplomas. :contentReference[oaicite:4]{index=4}  
-- Currently: Junior Scrum Master — Universidad Nacional de Costa Rica (leading sprint planning, managing repos, building web apps). :contentReference[oaicite:5]{index=5}
+<h1 align="center">Hi there, I'm Rodrigo Ureña Castillo 👋</h1>
+<h3 align="center">Information Systems Engineering Student | Software Developer</h3>
 
 ---
 
-## Technical stack
+## 💡 About Me
+I’m a third-year Information Systems Engineering student with a strong interest in **systems development, networking**, and **software architecture**.  
+I enjoy building efficient, maintainable software and leading agile teams to deliver meaningful solutions.  
+Currently, I’m working as a **Junior Scrum Master** at the *Universidad Nacional de Costa Rica*, where I combine technical development with project management.
 
-### Languages & runtimes
+---
+
+## ⚙️ Technical Stack
+
+### 🧠 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### Tools & platforms
+### 🧰 Tools & Frameworks
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ---
 
-## Selected experience & projects
+## 🧩 Featured Projects
 
-**Junior Scrum Master — Universidad Nacional de Costa Rica (Feb 2025 – Present)**  
-- Lead sprint planning, stakeholder meetings and GitHub repo management.  
-- Developed an LDAP-based login system and a PHP / MariaDB web application using Bootstrap.  
-- Implemented automated testing (PHPUnit, Katalon Recorder, Heurio). :contentReference[oaicite:6]{index=6}
-
-**Intern — Cisco Systems, Costa Rica (Oct 2022 – Dec 2022)**  
-- Configured switches, routers and servers for demos; reverse-engineered network topologies; maintained inventory and collaborated to improve processes. :contentReference[oaicite:7]{index=7}
-
-**Selected coursework & certifications**  
-- B.Sc. Information Systems Engineering — Universidad Nacional de Costa Rica (expected Nov 2026). :contentReference[oaicite:8]{index=8}  
-- Diploma in Application Programming (Nov 2025). :contentReference[oaicite:9]{index=9}  
-- NGD Linux Essentials (Cisco Networking Academy). :contentReference[oaicite:10]{index=10}
+| 🔹 Project | 💬 Description | 🧱 Tech Stack |
+|:--|:--|:--|
+| [**Citas Médicas**](https://github.com/RodrigoUC/Citas_Medicas) | Appointment management system built with React and PHP backend. Integrates JWT authentication and role-based access. | React · PHP · MariaDB · JWT |
+| [**Mini Message Broker**](https://github.com/RodrigoUC/Mini-message-broker) | Educational implementation of a lightweight message broker for distributed systems. | Java · Networking · Threads |
+| [**Dots & Boxes Game**](https://github.com/RodrigoUC/Dots-Boxes_II_Proyecto_PrograII_Rodrigo_Josue) | Console-based game project implementing the Dots & Boxes logic with C++. | C++ · Object-Oriented Design |
 
 ---
 
-## Projects & repos to check
-> (Add links to 3–6 of your best repos; pin them in your GitHub profile for visibility.)
+## 📊 GitHub Insights
 
-- `ldap-login-system` — LDAP auth + PHP front-end (University project). :contentReference[oaicite:11]{index=11}  
-- `php-mariadb-app` — CRUD web app with Bootstrap + automated tests. :contentReference[oaicite:12]{index=12}  
-- `network-lab` — Cisco internship configs and topology notes. :contentReference[oaicite:13]{index=13}
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RodrigoUC&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoUC&layout=compact&theme=radical&hide_border=true" alt="Top languages" width="48%">
+</p>
 
----
-
-## GitHub stats & activity
-
-<!-- Replace "RodrigoUC" with your GitHub username if different -->
-![Rodrigo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RodrigoUC&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoUC&layout=compact&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RodrigoUC&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
 
 ---
 
-## What I'm learning
-- Advanced software architecture patterns and design for scalability.  
-- Cloud-native tooling and DevOps practices (CI/CD, containers, observability). :contentReference[oaicite:14]{index=14}
+## 🎯 Current Focus
+- Advanced software architecture patterns  
+- Cloud-native technologies & DevOps pipelines  
+- Continuous integration and delivery (CI/CD)  
+- Agile team leadership (Scrum practices)
 
 ---
 
-## Open to
-- Collaborations on backend systems, networking tools, or university research.  
-- Internships and junior+ engineering roles related to systems engineering and networking.
+## 🤝 Let’s Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/rodrigo-ure%C3%B1a-castillo-6116b5238)
+- 📧 [rodrigourenacastillo@gmail.com](mailto:rodrigourenacastillo@gmail.com)
+- 🌐 [GitHub Profile](https://github.com/RodrigoUC)
 
 ---
 
-## Contact
-- LinkedIn: https://www.linkedin.com/in/rodrigo-ure%C3%B1a-castillo-6116b5238  (from résumé). :contentReference[oaicite:15]{index=15}  
-- Email: rodrigourenacastillo@gmail.com  (from résumé). :contentReference[oaicite:16]{index=16}
+<p align="center">
+  <i>“Strive for clean code, clear goals, and constant improvement.”</i><br/>
+  <strong>— Rodrigo Ureña Castillo</strong>
+</p>
 
----
-
-## Notes & next steps
-1. Pin 3–6 repos to your GitHub profile: pick the LDAP login, PHP/MariaDB app and a networking lab repo.  
-2. If you want a dynamic visitor counter or a GitHub Readme action that regenerates stats daily, I can add the recommended Action YAML and badges.  
-3. If you'd like the phone number published on the README, confirm and I will add it (it’s currently in your CV). :contentReference[oaicite:17]{index=17}
-
----
-
-*Last updated: automatic when you update repos and stats.*
