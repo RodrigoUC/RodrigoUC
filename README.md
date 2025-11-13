@@ -70,7 +70,7 @@ Currently, I’m working as a **Junior Scrum Master** at the *Universidad Nacion
 ---
 
 <p align="center">
-  <i>“Strive for clean code, clear goals, and constant improvement.”</i><br/>
+  <i>“Looking for cutting-edge technologies every day”</i><br/>
   <strong>— Rodrigo Ureña Castillo</strong>
 </p>
 
