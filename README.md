@@ -5,8 +5,6 @@
 
 Bridging software development & network infrastructure with hands-on experience in both domains.
 
-![Visitor Count](https://profile-counter.glitch.me/RodrigoUC/count.svg)
-
 ---
 
 ### 🚀 What I Do
@@ -59,6 +57,6 @@ Bridging software development & network infrastructure with hands-on experience 
 
 ---
 
-&lt;p align="center"&gt;
-  &lt;i&gt;🔐 Securing systems • 💻 Building solutions • 🚀 Leading teams&lt;/i&gt;
-&lt;/p&gt;
+<p align="center">
+  <i>🔐 Securing systems • 💻 Building solutions • 🚀 Leading teams</i>
+</p>
