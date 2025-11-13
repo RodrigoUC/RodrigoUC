@@ -54,7 +54,6 @@ Currently, I’m working as a **Junior Scrum Master** at the *Universidad Nacion
 ---
 
 ## 🎯 Current Focus
-- Software architecture patterns  
 - Cloud-native technologies & DevOps pipelines  
 - Continuous integration and delivery (CI/CD)  
 - Agile team leadership (Scrum practices)
@@ -67,7 +66,6 @@ Currently, I’m working as a **Junior Scrum Master** at the *Universidad Nacion
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/rodrigo-ure%C3%B1a-castillo-6116b5238)
 - 📧 [rodrigourenacastillo@gmail.com](mailto:rodrigourenacastillo@gmail.com)
-- 🌐 [GitHub Profile](https://github.com/RodrigoUC)
 
 ---
 
