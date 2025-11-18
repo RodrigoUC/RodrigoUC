@@ -5,25 +5,32 @@ on:
     - cron: "0 0 * * *"  # Runs every day at midnight UTC
   workflow_dispatch:
 
+# Need write permission to push updates
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-
-      - name: Generate README Stats
-        uses: anuraghazra/github-readme-stats@master
         with:
-          username: RodrigoUC
-          show_icons: true
-          theme: radical
-          hide_border: true
+          persist-credentials: true
+
+      - name: Download github-readme-stats SVG
+        run: |
+          mkdir -p stats
+          curl -s "https://github-readme-stats.vercel.app/api?username=RodrigoUC&show_icons=true&theme=radical&hide_border=true" -o stats/github-readme-stats.svg
 
       - name: Commit and push if changed
         run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
-          git add .
-          git commit -m "🌀 Auto-update README stats" || echo "No changes to commit"
-          git push
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stats/github-readme-stats.svg
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "🌀 Auto-update README stats"
+            git push
+          fi
