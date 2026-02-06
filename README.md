@@ -6,7 +6,7 @@
 ---
 
 ## 💡 About Me
-I’m a third-year Information Systems Engineering student with a strong interest in **systems development, networking**, and **software architecture**.  
+I’m a fourth-year Information Systems Engineering student with a strong interest in **systems development, networking**, and **software architecture**.  
 I enjoy building efficient, maintainable software and leading agile teams to deliver meaningful solutions.  
 Currently, I’m working as a **Junior Scrum Master** at the *Universidad Nacional de Costa Rica*, where I combine technical development with project management.
 
