@@ -42,10 +42,10 @@ Currently, I’m working as a **Junior Scrum Master** at the *Universidad Nacion
 
 ## 📊 GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RodrigoUC&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoUC&layout=compact&theme=radical&hide_border=true" alt="Top languages" width="48%">
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RodrigoUC&show_icons=true&theme=radical&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoUC&layout=compact&theme=radical&hide_border=true" width="45%" />
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RodrigoUC&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile Views" />
