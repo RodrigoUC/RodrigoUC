@@ -27,6 +27,8 @@ Currently, I’m working as a **Junior Scrum Master** at the *Universidad Nacion
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 ---
 
@@ -45,11 +47,6 @@ Currently, I’m working as a **Junior Scrum Master** at the *Universidad Nacion
 ![Stars](https://img.shields.io/github/stars/RodrigoUC?style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/RodrigoUC?style=for-the-badge)
 ![Top Lang](https://img.shields.io/github/languages/top/RodrigoUC/tu-repo-principal?style=for-the-badge)
-### 🛠 Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 
 <p align="center">
