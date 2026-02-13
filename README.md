@@ -42,21 +42,13 @@ Currently, I’m working as a **Junior Scrum Master** at the *Universidad Nacion
 
 ## 📊 GitHub Insights
 
-<p align="center">
-![Stars](https://img.shields.io/github/stars/RodrigoUC)
-![Followers](https://img.shields.io/github/followers/RodrigoUC)
-</p>
+![Stars](https://img.shields.io/github/stars/RodrigoUC?style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/RodrigoUC?style=for-the-badge)
+![Languages](https://img.shields.io/github/languages/RodrigoUC?style=for-the-badge)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RodrigoUC&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=RodrigoUC&theme=radical)
-
-![Streak](https://streak-stats.demolab.com/?user=RodrigoUC)
-
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=RodrigoUC)
-
 
 ---
 
@@ -80,4 +72,11 @@ Currently, I’m working as a **Junior Scrum Master** at the *Universidad Nacion
   <i>“Looking for cutting-edge technologies every day”</i><br/>
   <strong>— Rodrigo Ureña Castillo</strong>
 </p>
+
+![Streak](https://streak-stats.demolab.com/?user=RodrigoUC)
+
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=RodrigoUC)
+
+![Metrics](https://metrics.lecoq.io/RodrigoUC)
+
 
