@@ -42,12 +42,21 @@ Currently, I’m working as a **Junior Scrum Master** at the *Universidad Nacion
 
 ## 📊 GitHub Insights
 
+<p align="center">
 ![Stars](https://img.shields.io/github/stars/RodrigoUC)
 ![Followers](https://img.shields.io/github/followers/RodrigoUC)
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RodrigoUC&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=RodrigoUC&theme=radical)
+
+![Streak](https://streak-stats.demolab.com/?user=RodrigoUC)
+
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=RodrigoUC)
+
 
 ---
 
