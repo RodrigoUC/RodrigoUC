@@ -89,16 +89,16 @@ Currently, I’m working as a **Junior Scrum Master** at the *Universidad Nacion
 
   <img width="1098" height="304" alt="{BEE5E718-A086-4D36-9EB2-715E1557486D}" src="https://github.com/user-attachments/assets/160d80d9-646a-4f95-bf04-5cba7cc255df" />
 
-  <span> Citas_medicas </span>
+  Citas_medicas
   ![Top Lang](https://img.shields.io/github/languages/top/RodrigoUC/Citas_medicas?style=for-the-badge)
 
-  <span> Mini-message-broker </span>
+  Mini-message-broker
   ![Top Lang](https://img.shields.io/github/languages/top/RodrigoUC/Mini-message-broker)
 
-  <span> Dots-Boxes </span>
+  Dots-Boxes
   ![Top Lang](https://img.shields.io/github/languages/top/RodrigoUC/Dots-Boxes_II_Proyecto_PrograII_Rodrigo_Josue?style=for-the-badge)
 
-  <span> Operativos-sesion </span>
+  Operativos-sesion
   ![Top Lang](https://img.shields.io/github/languages/top/RodrigoUC/operativos-sesion-1?style=for-the-badge)
   
 </div>
