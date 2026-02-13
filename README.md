@@ -42,8 +42,11 @@ Currently, I’m working as a **Junior Scrum Master** at the *Universidad Nacion
 
 ## 📊 GitHub Insights
 
-<p align="center"> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RodrigoUC&show_icons=true&theme=radical&hide_border=true" width="45%" /> 
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RodrigoUC&layout=compact&theme=radical&hide_border=true" width="45%" />
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=RodrigoUC&show_icons=true&theme=radical&hide_border=true&token=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" width="45%" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoUC&layout=compact&theme=radical&hide_border=true&token=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" width="45%" />
+
  </p>
 
 <p align="center">
