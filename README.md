@@ -39,7 +39,7 @@ Currently, I’m working as a **Junior Scrum Master** at the *Universidad Nacion
 | [**Citas Médicas**](https://github.com/RodrigoUC/Citas_Medicas) | Appointment management system built with React and PHP backend. Integrates JWT authentication and role-based access. | React · Spring · MySQL · JWT |
 | [**Mini Message Broker**](https://github.com/RodrigoUC/Mini-message-broker) | Educational implementation of a lightweight message broker for distributed systems. | C · Sockets · Threads |
 | [**Dots & Boxes Game**](https://github.com/RodrigoUC/Dots-Boxes_II_Proyecto_PrograII_Rodrigo_Josue) | Console-based game project implementing the Dots & Boxes logic with C++. | C++ · Object-Oriented Design |
-
+| [**SORTH**](https://github.com/RodrigoUC/SORTH) | Desktop application for automatic academic timetable generation using a CSP solver with backtracking and heuristics (MRV/LCV). | Python · PyQt6 · CSP · pandas · openpyxl |
 ---
 
 ## 📊 GitHub Insights
