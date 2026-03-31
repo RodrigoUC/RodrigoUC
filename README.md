@@ -79,15 +79,15 @@ Currently, I’m working as a **Junior Scrum Master** at the *Universidad Nacion
 </p>
 
 
-<div align="center">
+<!--div align="center">
   
   ![Streak](https://streak-stats.demolab.com/?user=RodrigoUC)
 
-  ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=RodrigoUC)
+  ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=RodrigoUC)-->
 
   <!-- https://metrics.lecoq.io -->
 
-  <img width="1098" height="304" alt="{BEE5E718-A086-4D36-9EB2-715E1557486D}" src="https://github.com/user-attachments/assets/160d80d9-646a-4f95-bf04-5cba7cc255df" />
+  <!--img width="1098" height="304" alt="{BEE5E718-A086-4D36-9EB2-715E1557486D}" src="https://github.com/user-attachments/assets/160d80d9-646a-4f95-bf04-5cba7cc255df" /-->
 
   <!-- Citas_medicas
   ![Top Lang](https://img.shields.io/github/languages/top/RodrigoUC/Citas_medicas?style=for-the-badge)
