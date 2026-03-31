@@ -83,7 +83,7 @@ Currently, I’m working as a **Junior Scrum Master** at the *Universidad Nacion
   
   ![Streak](https://streak-stats.demolab.com/?user=RodrigoUC)
 
-  ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=RodrigoUC)-->
+  ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=RodrigoUC)
 
   <!-- https://metrics.lecoq.io -->
 
