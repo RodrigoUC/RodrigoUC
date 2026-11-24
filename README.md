@@ -4,7 +4,7 @@
 
 ![Cloud infrastructure and three connected agent nodes](./assets/cloud-and-ai-agents.jpg)
 
-I design and validate AI agents with **Oracle AI Agent Studio** and **Oracle Private Agent Factory**, including integrations with **Oracle Fusion Cloud**. I’m an Information Systems Engineering student and an intern at Serkes Consulting, where I translate business needs into requirements, workflows, and test scenarios.
+I design and validate AI agents with **Oracle AI Agent Studio**, including integrations with **Oracle Fusion Cloud**. I’m an Information Systems Engineering student and an intern at Serkes Consulting, where I translate business needs into requirements, workflows, and test scenarios.
 
 [LinkedIn](https://www.linkedin.com/in/rodrigo-ure%C3%B1a-castillo-6116b5238/) · [Email](mailto:rodrigourenacastillo@gmail.com)
 
@@ -35,7 +35,6 @@ I worked on the Android app for exchanging hobbies and skills. The app uses Jetp
 
 ![Oracle Cloud Infrastructure](./assets/stack/oracle-cloud-infrastructure.svg)
 ![Oracle AI Agent Studio](./assets/stack/oracle-ai-agent-studio.svg)
-![Oracle Private Agent Factory](./assets/stack/oracle-private-agent-factory.svg)
 ![Oracle Fusion Cloud](./assets/stack/oracle-fusion-cloud.svg)
 ![Microsoft Azure](./assets/stack/microsoft-azure.svg)
 
