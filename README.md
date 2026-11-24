@@ -27,12 +27,45 @@ I worked on the Android app for exchanging hobbies and skills. The app uses Jetp
 - [Nexo IA](https://github.com/RodrigoUC/framework_ia) — Streamlit platform for exploratory data analysis, clustering, classification, and regression.
 - [Mini Message Broker](https://github.com/RodrigoUC/Mini-message-broker) — Educational C project exploring TCP sockets, concurrency, and message persistence.
 
-## Technologies & certifications
+## Technical stack
 
-| Area | Technologies |
-| --- | --- |
-| Cloud & AI agents | OCI, Oracle AI Agent Studio, Oracle Private Agent Factory, Oracle Fusion Cloud, Microsoft Azure |
-| Software development | Python, Java, Spring Boot, React, Kotlin, Jetpack Compose, Material 3, C, C++, PHP |
-| Automation & tooling | Power Automate, SharePoint, Microsoft Forms, Docker, Git, Linux |
+<!-- Keep badge images in assets/stack and include the tool name as alt text. -->
 
-**Certifications** · Oracle Cloud Infrastructure, Microsoft Azure, Oracle Fusion AI Agent Studio
+### Cloud & AI agents
+
+![Oracle Cloud Infrastructure](./assets/stack/oracle-cloud-infrastructure.svg)
+![Oracle AI Agent Studio](./assets/stack/oracle-ai-agent-studio.svg)
+![Oracle Private Agent Factory](./assets/stack/oracle-private-agent-factory.svg)
+![Oracle Fusion Cloud](./assets/stack/oracle-fusion-cloud.svg)
+![Microsoft Azure](./assets/stack/microsoft-azure.svg)
+
+### Languages
+
+![Python](./assets/stack/python.svg)
+![Java](./assets/stack/java.svg)
+![Kotlin](./assets/stack/kotlin.svg)
+![C](./assets/stack/c.svg)
+![C++](./assets/stack/cpp.svg)
+![PHP](./assets/stack/php.svg)
+
+### Frameworks & UI
+
+![React](./assets/stack/react.svg)
+![Spring Boot](./assets/stack/spring-boot.svg)
+![Jetpack Compose](./assets/stack/jetpack-compose.svg)
+![Material 3](./assets/stack/material-3.svg)
+![PyQt6](./assets/stack/pyqt6.svg)
+![Streamlit](./assets/stack/streamlit.svg)
+
+### Automation & developer tools
+
+![Power Automate](./assets/stack/power-automate.svg)
+![SharePoint](./assets/stack/sharepoint.svg)
+![Microsoft Forms](./assets/stack/microsoft-forms.svg)
+![Docker](./assets/stack/docker.svg)
+![Git](./assets/stack/git.svg)
+![Linux](./assets/stack/linux.svg)
+
+## Certifications
+
+Oracle Cloud Infrastructure · Microsoft Azure · Oracle Fusion AI Agent Studio

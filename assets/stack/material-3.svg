@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="90" height="28" viewBox="0 0 90 28" role="img" aria-labelledby="label">
+  <title id="label">Material 3</title>
+  <rect width="90" height="28" rx="6" fill="#18353B"/>
+  <text x="45" y="18" text-anchor="middle" font-family="system-ui, Segoe UI, sans-serif" font-size="11" font-weight="600" fill="#B1F0E8">Material 3</text>
+</svg>

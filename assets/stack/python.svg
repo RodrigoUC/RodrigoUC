@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="28" viewBox="0 0 64 28" role="img" aria-labelledby="label">
+  <title id="label">Python</title>
+  <rect width="64" height="28" rx="6" fill="#222D40"/>
+  <text x="32" y="18" text-anchor="middle" font-family="system-ui, Segoe UI, sans-serif" font-size="11" font-weight="600" fill="#D2E3FF">Python</text>
+</svg>
