@@ -4,7 +4,7 @@
 
 ![Cloud infrastructure and three connected agent nodes](./assets/cloud-and-ai-agents.jpg)
 
-I’m interested in cloud computing, especially **Oracle Cloud Infrastructure (OCI)**, and in building AI agents with **Oracle AI Agent Studio** and **Oracle Fusion Cloud**.
+I enjoy learning how technology works and using it to solve practical problems. I like building software, automating repetitive tasks, and exploring what cloud platforms and AI agents can do. My projects range from Android apps to desktop tools and data analysis.
 
 [LinkedIn](https://www.linkedin.com/in/rodrigo-ure%C3%B1a-castillo-6116b5238/) · [Email](mailto:rodrigourenacastillo@gmail.com)
 
@@ -12,7 +12,7 @@ I’m interested in cloud computing, especially **Oracle Cloud Infrastructure (O
 
 ### [SORTH-AI](https://github.com/RodrigoUC/SORTH-AI)
 
-I developed this desktop application as a student assistant at Universidad Nacional. It generates academic schedules from configurable constraints and lets staff review, adjust, import, and export schedule data.
+I developed this desktop application at Universidad Nacional. It generates academic schedules from configurable constraints and lets staff review, adjust, import, and export schedule data.
 
 **Stack** · Python, PyQt6, SQLite, pandas
 
