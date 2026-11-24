@@ -1,10 +1,10 @@
 # Rodrigo Ureña Castillo
 
-**Software Developer | Oracle Cloud Infrastructure (OCI) & AI Agents**
+**Technology Enthusiast**
 
 ![Cloud infrastructure and three connected agent nodes](./assets/cloud-and-ai-agents.jpg)
 
-I design and validate AI agents with **Oracle AI Agent Studio**, including integrations with **Oracle Fusion Cloud**. I’m an Information Systems Engineering student and an intern at Serkes Consulting, where I translate business needs into requirements, workflows, and test scenarios.
+I’m interested in cloud computing, especially **Oracle Cloud Infrastructure (OCI)**, and in building AI agents with **Oracle AI Agent Studio** and **Oracle Fusion Cloud**.
 
 [LinkedIn](https://www.linkedin.com/in/rodrigo-ure%C3%B1a-castillo-6116b5238/) · [Email](mailto:rodrigourenacastillo@gmail.com)
 
