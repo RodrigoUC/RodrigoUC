@@ -30,7 +30,7 @@ I hold certifications in Oracle Cloud Infrastructure, Microsoft Azure, and Oracl
 ### Cloud, AI & Automation
 ![Oracle Cloud Infrastructure](https://img.shields.io/badge/Oracle_Cloud_Infrastructure-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Oracle AI Agent Studio](https://img.shields.io/badge/Oracle_AI_Agent_Studio-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle AI Agent Studio](https://img.shields.io/badge/Oracle-AI%20Agent%20Studio-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/SharePoint-038387?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
 
